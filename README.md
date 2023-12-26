@@ -15,27 +15,6 @@ Welcome to the React Fundamanetal repository! This project serves as a practical
 3. **React.js Fundamentals:**
    Delve into the core fundamentals of React.js, gaining insights into building efficient and maintainable components. Discover best practices for structuring your React applications for scalability and ease of development.
 
-### Getting Started:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Arsh-10/react-fundamentals.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd react-fundamentals
-   ```
-
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Run the application:
-   ```bash
-   npm start
-   ```
 
 Explore the provided examples and enhance your understanding of React.js concepts. Feel free to contribute, ask questions, or provide feedback!
 
